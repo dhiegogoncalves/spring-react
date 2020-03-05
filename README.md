@@ -1,4 +1,4 @@
-# SPRING-CRUD
+# SPRING-REACT
 
 > Exemplo de integração do React com Spring Boot.
 
